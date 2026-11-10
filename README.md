@@ -16,10 +16,6 @@ The working dataset was obtained from the team's replication project.
 
 **Original dataset:** https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347042
 
-**Date downloaded:** [Verify whether September 28, 2026, is the original acquisition date.]
-
-**Data provenance:** [Clarify how decoded_data.xls was created or obtained and whether it is identical to an original published dataset.]
-
 ## 3. How to Run the Replication
 
 The analysis uses R. After installing R, open Terminal and run:
