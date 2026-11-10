@@ -1,46 +1,5 @@
-=== Starting Pipeline Execution at: 2026-11-10 11:08:26.104358 ===
+=== Starting Pipeline Execution at: 2026-11-10 11:15:07.64806 ===
 
-Installing missing packages: readxl, knitr, kableExtra, mvtnorm, sandwich 
-also installing the dependencies ‘fs’, ‘rappdirs’, ‘cachem’, ‘memoise’, ‘sass’, ‘rematch’, ‘bslib’, ‘fontawesome’, ‘jquerylib’, ‘tinytex’, ‘base64enc’, ‘fastmap’, ‘systemfonts’, ‘textshaping’, ‘cellranger’, ‘evaluate’, ‘highr’, ‘xfun’, ‘yaml’, ‘xml2’, ‘rmarkdown’, ‘htmltools’, ‘rstudioapi’, ‘digest’, ‘svglite’
-
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/fs_2.1.0.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/rappdirs_0.3.4.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/cachem_1.1.0.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/memoise_2.0.1.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/sass_0.4.10.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/rematch_2.0.0.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/bslib_0.12.0.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/fontawesome_0.5.3.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/jquerylib_0.1.4.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/tinytex_0.61.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/base64enc_0.1-6.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/fastmap_1.2.0.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/systemfonts_1.3.2.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/textshaping_1.0.5.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/cellranger_1.1.0.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/evaluate_1.0.5.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/highr_0.12.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/xfun_0.62.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/yaml_2.3.12.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/xml2_1.6.0.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/rmarkdown_2.32.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/htmltools_0.5.9.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/rstudioapi_0.19.0.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/digest_0.6.39.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/svglite_2.2.2.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/readxl_1.6.0.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/knitr_1.52.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/kableExtra_1.4.1.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/mvtnorm_1.4-2.tgz'
-trying URL 'https://cloud.r-project.org/bin/macosx/sonoma-arm64/contrib/4.6/sandwich_3.1-3.tgz'
-package ‘tinytex’ successfully unpacked and SHA256 sums checked
-package ‘base64enc’ successfully unpacked and SHA256 sums checked
-package ‘xfun’ successfully unpacked and SHA256 sums checked
-package ‘readxl’ successfully unpacked and SHA256 sums checked
-package ‘knitr’ successfully unpacked and SHA256 sums checked
-
-The downloaded binary packages are in
-	/var/folders/n6/vx8s9m_57d7cry23d3lf3cjw0000gn/T//RtmpeWTSon/downloaded_packages
 
 Attaching package: ‘dplyr’
 
@@ -90,7 +49,7 @@ Neverappliedtoacostsharepr    0.359   0.173   0.423
 Mountain                      0.609   0.356   0.991
 Creating regional landowner figure...
 
-=== Pipeline Execution Completed Successfully at: 2026-11-10 11:10:12.216977 ===
+=== Pipeline Execution Completed Successfully at: 2026-11-10 11:16:46.337393 ===
 
 R version 4.6.1 (2026-06-24)
 Platform: aarch64-apple-darwin23
